@@ -1,4 +1,4 @@
-bcrypt==4.1.2
+bcrypt==4.2.1
 Django~=4.1.13
 cryptography==40.0.2
 django-cors-headers==4.0.0
